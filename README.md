@@ -85,7 +85,10 @@
     <tr>
         <td align="center">	       
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>	           
-        </td>	
+        </td>
+        <td align="center">	       
+            <img src="https://tse1.mm.bing.net/th?id=OIP.ADqbtRNCtoGE-1bvvoSQdgHaE8&pid=Api&rs=1&c=1&qlt=95&w=159&h=106" title="JAVA" alt="JAVA" width="80" height="60"/>	           
+        </td>
     </tr>
     <tr>	    
         <td align="center">	        
@@ -99,7 +102,7 @@
     </tr>	    
     <tr>	   
         <td align="center">	      
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>	           
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="50"/>	           
         </td>	       
     </tr>	    
     <tr>	    
