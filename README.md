@@ -1,4 +1,4 @@
-# AndradaGacichevici
+# Andrada Gacichevici
 
 <h1>🛠 Languages and Skills</h1>	
 <table>	
@@ -36,7 +36,10 @@
         </td>	        
         <td align="center">	        
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>	            
-        </td>	        
+        </td>	
+        <td align="center">	        
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>	               
+        </tr>         
         <td align="center">	        
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize"  alt="Sequelize" width="50" height="50"/>	            
         </td>	        
@@ -87,10 +90,7 @@
     <tr>	    
         <td align="center">	        
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Boot Strap" alt="Boot Strap" width="50" height="50"/>	            
-        </td>	       
-        <td align="center">	              
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="50" height="50"/>	            
-        </td>	     
+        </td>	       	     
     </tr>	   
     <tr>	   
         <td align="center">	       
