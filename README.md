@@ -71,14 +71,14 @@
          <td align="center">	        
             <img src="https://tse3.mm.bing.net/th?id=OIP.DnwR8i3TAvCoL53ObTdDpAHaFk&pid=Api&P=0" title="JSON" alt="JSON" width="40" height="40"/>	            
         </td>	
+        <td align="center">	        
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>	               
+        </tr>
     </tr> 
     <tr>	    
         <td align="center">	        
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>	            
-        </td>	       
-        <td align="center">	        
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>	               
-        </tr>	
+        </td>	       	
     <tr>
         <td align="center">	       
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>	           
