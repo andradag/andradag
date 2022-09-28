@@ -81,7 +81,10 @@
     <tr>	    
         <td align="center">	        
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>	            
-        </td>	       	
+        </td>		       
+        <td align="center">	              
+             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="50" height="50"/>	            
+        </td>	
     <tr>
         <td align="center">	       
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>	           
