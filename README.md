@@ -36,14 +36,11 @@
         </td>	        
         <td align="center">	        
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>	            
-        </td>	
-        <td align="center">	        
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>	               
-        </tr>         
+        </td>
         <td align="center">	        
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize"  alt="Sequelize" width="50" height="50"/>	            
-        </td>	        
-    <td>	        
+        </td>	
+        <td> </td>
         <td align="center">	       
              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>	            
         </td>	        
